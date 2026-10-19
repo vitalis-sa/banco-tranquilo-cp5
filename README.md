@@ -10,7 +10,7 @@ Microsserviço Worker desenvolvido com **Spring Boot 4.1.1**, **Java 21** e **Sp
 
 - **Link de Produção (Render):** [`LINK DO RENDER_DBEXPRESS`](https://banco-tranquilo-cp5.onrender.com/)
 - **Repositório Principal (`mercadoExpress`):** [`LINK DO GITHUB_MERCADOEXPRESS`](https://github.com/vitalis-sa/mercado-express-cp5)
-- **Vídeo de Demonstração (YouTube):** `[LINK DO VIDEO`](https://www.youtube.com/watch?v=9-1BpcvanuU&feature=youtu.be)
+- **Vídeo de Demonstração (YouTube):** [`LINK DO VIDEO`](https://www.youtube.com/watch?v=9-1BpcvanuU)
 
 ---
 
