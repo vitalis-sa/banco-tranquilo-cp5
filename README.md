@@ -38,6 +38,10 @@ Microsserviço Worker desenvolvido com **Spring Boot 4.1.1**, **Java 21** e **Sp
 
 ---
 
+## Configuração do Spring Starter
+
+<img width="1199" height="567" alt="image" src="https://github.com/user-attachments/assets/ee0767e8-1dd8-4bc6-8ed0-b8b3e04159cd" />
+
 ## Funcionamento do Worker (Banco Tranquilo)
 
 1. O **DBExpress** escuta continuamente a fila `pagamento-request-queue` no **RabbitMQ**.
