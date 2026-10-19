@@ -72,18 +72,6 @@ Microsserviço Worker desenvolvido com **Spring Boot 4.1.1**, **Java 21** e **Sp
 
 ---
 
-## Variáveis de Ambiente (Deploy no Render / CloudAMQP)
-
-| Variável | Descrição | Valor Padrão (Local) |
-|---|---|---|
-| `PORT` | Porta HTTP do serviço | `9090` |
-| `RABBIT_HOST` | Host do servidor RabbitMQ / CloudAMQP | `localhost` |
-| `RABBIT_PORT` | Porta AMQP | `5672` |
-| `RABBIT_USER` | Usuário do RabbitMQ | `guest` |
-| `RABBIT_PASSWORD` | Senha do RabbitMQ | `guest` |
-| `RABBIT_VHOST` | Virtual Host do RabbitMQ | `/` |
-
----
 ## Parte 2 — Mensageria com RabbitMQ, Banco Tranquilo, E-mail e Dashboard
 
 ### Mapa de Exchanges, Routing Keys e Queues
